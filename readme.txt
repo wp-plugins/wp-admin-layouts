@@ -18,7 +18,7 @@ To make your admin layout more attractive and colorful
 
 Support
 
-So that others can share in the answer, please submit your support requests through the WordPress forums for [Admin Layouts](http://wordpress.org/support/plugin/lumia_testimonial).
+So that others can share in the answer, please submit your support requests through the WordPress forums for [Admin Layouts](http://wordpress.org/plugins/wp-admin-layouts/).
 
 If you want private or priority support, please [donate](http://weblumia.com/donate) at least $5 USD to cover my time.
 
