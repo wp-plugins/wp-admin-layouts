@@ -25,7 +25,7 @@ If you want private or priority support, please [donate](http://weblumia.com/don
 == Installation ==
 
 1.     Via WordPress Admin > Plugins > Add New, Upload the wp-admin-layouts.zip file
-1.     Alternately, via FTP, upload lumia_testimonial directory to the /wp-content/plugins/ directory
+1.     Alternately, via FTP, upload wp-admin-layouts directory to the /wp-content/plugins/ directory
 1.     Activate the 'WP Admin Layouts' plugin after uploading or through WordPress Admin > Plugins
 
 Usage
