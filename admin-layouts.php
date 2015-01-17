@@ -3,7 +3,7 @@
 	Plugin Name: Admin Layouts
 	Plugin URI: http://weblumia.com/admin-layouts/
 	Description: To make your admin layout more attractive and colorful.
-	Version: 1.4.1
+	Version: 1.4.2
 	Author: Jinesh.P.V
 	Author URI: http://weblumia.com/admin-layouts/
 	License: GPLv2 or later
